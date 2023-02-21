@@ -4,11 +4,13 @@
 
 ## Introduction
 
-In this lab you will tackle some basic probability challenges. Write your solutions using *Latex* and *Markdown*. 
+In this lab you will tackle some basic probability challenges. 
+Write your solutions using *Latex* and *Markdown*. 
 
 ## Getting Started
 
-Open the `main.ipynb` file in the `your-code` directory. Follow the instructions and add your code and comments.
+Open the `main.ipynb` file in the `your-code` directory. 
+Follow the instructions and add your code and comments.
 
 ## Deliverables
 
